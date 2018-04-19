@@ -1,5 +1,5 @@
-a = -1
-b = 3
-c = a + b
-print (c)
-
+número = int(input("Escriba número "))
+if número !=  0:
+    print("Hola mundo")
+else:
+    print("Adiós mundo cruel")
